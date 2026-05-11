@@ -12,3 +12,5 @@ Salesforce is the world’s #1 AI CRM. Our leading customer relationship managem
 
 Whether you’re a small business getting started with CRM or an enterprise transforming how teams work, Salesforce helps every organization become an Agentic Enterprise — where humans and AI agents drive customer success together.
 ![image alt](https://github.com/msivaathmika-netizen/salesforce-training/blob/a5c1df0e8fa24f5839ec427e45fbd52f1212079e/Screenshot%202026-05-11%20081806.png)
+
+![image alt](https://github.com/msivaathmika-netizen/salesforce-training/blob/decfec13b07b225554c881b20c2410092eeb67a7/Screenshot%202026-05-11%20081822.png)
